@@ -764,6 +764,9 @@ nav.nav.active a {
       font-size: 250px;
       line-height: 305px;
     }
+    .bottom-left {
+       margin-left: 0px;
+    }
     .row-1-txt h4 {
       font-weight: 500;
       font-size: 30px;
@@ -776,7 +779,7 @@ nav.nav.active a {
        margin-top: 150px;
 
     }
-    .arrow i {
+    .arrow a i {
        color: #FFFFFF;
        font-size: 40px;
        margin-top: 30px;
